@@ -4,7 +4,7 @@ import Login from "./components/Login";
 import Sidebar from "./components/Sidebar";
 import Chat from "./components/Chat";
 import useWindowSize from "./hooks/useWindowSize";
-import useAuthUser from "./hooks/useAuthUser";
+import useAuthUser from "./hooks/useAuthUser";\\\\
 import { Route, Redirect } from "react-router-dom";
 
 export default function App() {
